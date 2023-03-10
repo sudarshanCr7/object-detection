@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center ;
+    text-align: center;
+    color: white;
+}
+a{
+    background-color: white;
+    width: 200px;
+    border-radius: 25px;
+}
+h1{
+    background-color: red;
+    border-radius: 32px;
+    line-height: 3;
+}
+.back{
+    float: right;
+    background-color: black;
+    color: white;
+}
